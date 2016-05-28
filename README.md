@@ -1,4 +1,4 @@
-# store
+# Laravel 5.2 Ecommerce
 A ecommerce store using Laravel 5.2
 
 
